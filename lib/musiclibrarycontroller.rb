@@ -1,3 +1,24 @@
+Skip to content
+Features
+Business
+Explore
+Marketplace
+Pricing
+
+Search
+
+Sign in or Sign up
+0 0 1,275 BrownCow371/ruby-music-library-cli-v-000
+forked from learn-co-students/ruby-music-library-cli-v-000
+ Code  Pull requests 0  Projects 0  Insights
+Join GitHub today
+GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
+
+ruby-music-library-cli-v-000/lib/musiclibrarycontroller.rb
+421acff  15 hours ago
+@BrownCow371 BrownCow371 012 tests passing
+     
+96 lines (81 sloc)  2.75 KB
 require 'pry'
 class MusicLibraryController
 
